@@ -25,6 +25,7 @@ class ViewController: UIViewController {
        
     }
     
+    
     override func viewDidAppear(animated: Bool) {
         
         let dateFormatter = NSDateFormatter()

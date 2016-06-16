@@ -98,7 +98,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="538" y="261"/>
+            <point key="canvasLocation" x="536" y="286"/>
         </scene>
         <!--Edit Contact-->
         <scene sceneID="zUP-Uc-MRY">
@@ -195,7 +195,7 @@
                                 <action selector="cancelClicked:" destination="YLj-CO-Y48" id="Coq-L5-bak"/>
                             </connections>
                         </barButtonItem>
-                        <barButtonItem key="rightBarButtonItem" systemItem="done" id="krF-Zg-1fV"/>
+                        <barButtonItem key="rightBarButtonItem" systemItem="save" id="krF-Zg-1fV"/>
                     </navigationItem>
                     <connections>
                         <outlet property="datePicker" destination="M2R-Nl-2jU" id="ale-25-t9U"/>

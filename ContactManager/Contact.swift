@@ -10,6 +10,7 @@ import Foundation
 
 class Contact {
     
+    
     var name : String
     var birthday: NSDate
     var email : String
