@@ -16,6 +16,7 @@ class Contact {
     var email : String
     var salary : Double
     var gender : Int
+    var carType : String?
     
     init(name: String, birthday: NSDate, email: String, salary: Double, gender: Int){
         self.name = name
